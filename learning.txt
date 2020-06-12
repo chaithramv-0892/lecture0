@@ -4,6 +4,6 @@
 <title>My git lesson1</title>
 </head> 
 <body>
-	I am learning Git, also python and JavaScript
+	I am learning Git, also python and JavaScript! I am happy learning new technology.
 </body>
 </html>	
