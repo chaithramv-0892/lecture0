@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Webpage!</title>
+</head> 
+<body>
+	<h1>Students Data</h1>
+	<table>
+	<tr>    
+		<th>First Name</th>   
+		<th>Last Name</th>
+		<th>Department</th>    
+	</tr>
+	<tr>
+		<td>Chaithra</td>
+		<td>Rao</td>
+		<td>Physics</td>           
+	</tr>
+	<tr>
+		<td>Triveni</td>
+		<td>Rao</td>
+		<td>Mths</td>              
+	</tr>
+	<tr>
+		<td>Navya</td>
+		<td>MN</td>
+		<td>Chemistry</td>      
+	</tr>	
+	<tr>
+		<td>Suhas</td>       
+		<td>Gr</td>
+		<td>Computers</td>      
+	</tr>		
+</body>
+</html>			
