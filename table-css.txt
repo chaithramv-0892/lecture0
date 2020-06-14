@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>My Webpage!</title>
+	<style>
+		table { 
+		     border:2px solid black;    
+		     border-collapse:collapse;  
+		     width:50%;    
+				
+		}
+		th, td {     
+		     border:1px solid black;
+		     padding:5px;    
+		     text-align:center;
+		}
+		th {       
+		     background-color:lightgrey;
+    		     padding:5px;   
+		     text-align:center;
+		}
+	</style>
+</head>   
+<body>
+	<h1>Students Data</h1>
+	<table>
+	<tr>    
+		<th>First Name</th>   
+		<th>Last Name</th>
+		<th>Department</th>    </tr>
+	<tr>
+		<td>Chaithra</td>
+		<td>Rao</td>
+		<td>Physics</td>           </tr>
+	<tr>
+		<td>Triveni</td>
+		<td>Rao</td>
+		<td>Mths</td>              </tr>
+</body>   </html>
